@@ -22,7 +22,7 @@ public class Storedata {
 	      
 	    Answer ans2=new Answer();  
 	    ans2.setAnswername("Java is a platform");  
-	    ans2.setPostedBy("sharath Kumar");  
+	    ans2.setPostedBy("ravikumar");  
 	     
 	    Question q1=new Question();  
 	    q1.setQname("What is Java?");  
